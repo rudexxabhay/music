@@ -32,18 +32,18 @@ async def start(_, msg):
           InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/rudexabhay"),
-          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/rudexabhay"),
+          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/Romentic_romeo_1"),
+          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/Romentic_romeo_1"),
           ],
                [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/rudexzone"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/+uNLoSmHHk7sxYT"),
 
 ],
 [
               InlineKeyboardButton("𝗕𝗔𝗡 𝗔𝗟𝗟︎", url=f"https://t.me/+HEbSm3iR0UA4OTU1"),
               ],
               [
-              InlineKeyboardButton("𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧︎", url=f"https://t.me/rudexabhay"),
+              InlineKeyboardButton("𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧︎", url=f"https://t.me/Romentic_romeo_1"),
 InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://t.me/+HEbSm3iR0UA4OTU1"),
 ],
 [
@@ -54,7 +54,7 @@ InlineKeyboardButton("BOT LIST", url=f"https://t.me/+HEbSm3iR0UA4OTU1"),
               InlineKeyboardButton("𝗠𝗢𝗩𝗜𝗘︎", url=f"https://t.me/okflix_tg"),
               ],
 [
-InlineKeyboardButton("SUPPORT GROUP", url=f"https://t.me/+HEbSm3iR0UA4OTU1"),
+InlineKeyboardButton("SUPPORT GROUP", url=f"https://t.me/+uNLoSmHHk7sxYTc1"),
 
         ]]
     
@@ -84,7 +84,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://t.me/rudexabhay) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/+HEbSm3iR0UA4OTU1)
+        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://t.me/rudexabhay) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/+uNLoSmHHk7sxYTc1)
 | 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖮𝖱𝖲 |
 ----------------
 {list_of_users}"""
