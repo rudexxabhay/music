@@ -64,8 +64,8 @@ def btn(text, value, type="callback_data"):
 async def search_(app: app, msg: Message):
     split = msg.text.split(None, 1)
     if len(split) == 1:
-        return await msg.reply_text("**ɢɪᴠᴇ ǫᴜᴇʀʏ ᴛᴏ sᴇᴀʀᴄʜ\n│ \n└➻ ᴍᴀᴅᴇ ʙʏ ☠️ ᴛʜᴀᴋᴜʀ ᴀʙʜᴀʏ ☠️**")
-    to_del = await msg.reply_text("**sᴇᴀʀᴄʜɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ...\n│ \n└➻ ᴍᴀᴅᴇ ʙʏ ☠️ ᴛʜᴀᴋᴜʀ ᴀʙʜᴀʏ ☠️**")
+        return await msg.reply_text("**ɢɪᴠᴇ ǫᴜᴇʀʏ ᴛᴏ sᴇᴀʀᴄʜ\n│ \n└➻ ᴍᴀᴅᴇ ʙʏ ⟜⃜᷼🐰⃝⃪⃕͜.🇷OMEO⎯⳰͢❥๋**")
+    to_del = await msg.reply_text("**sᴇᴀʀᴄʜɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ...\n│ \n└➻ ᴍᴀᴅᴇ ʙʏ ⟜⃜᷼🐰⃝⃪⃕͜.🇷OMEO⎯⳰͢❥๋**")
     query = split[1]
     try:
         result = await gsearch.async_search(query)
@@ -115,11 +115,11 @@ async def search_(app: app, msg: Message):
         return
     except NoResultsFound:
         await to_del.delete()
-        await msg.reply_text("**ɴᴏ ʀᴇsᴜʟᴛ ғᴏᴜɴᴅ ᴄᴏʀʀᴇsᴘᴏɴᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ǫᴜᴇʀʏ\n│ \n└➻ ᴍᴀᴅᴇ ʙʏ ☠️ ᴛʜᴀᴋᴜʀ ᴀʙʜᴀʏ ☠️**")
+        await msg.reply_text("**ɴᴏ ʀᴇsᴜʟᴛ ғᴏᴜɴᴅ ᴄᴏʀʀᴇsᴘᴏɴᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ǫᴜᴇʀʏ\n│ \n└➻ ᴍᴀᴅᴇ ʙʏ ⟜⃜᷼🐰⃝⃪⃕͜.🇷OMEO⎯⳰͢❥๋**")
         return
     except NoResultsOrTrafficError:
         await to_del.delete()
-        await msg.reply_text("****ɴᴏ ʀᴇsᴜʟᴛ ғᴏᴜɴᴅ ᴅᴜᴇ ᴛᴏ ᴛᴏᴏ ᴍᴀɴʏ ᴛʀᴀғғɪᴄ\n│ \n└➻ ᴍᴀᴅᴇ ʙʏ ☠️ ᴛʜᴀᴋᴜʀ ᴀʙʜᴀʏ ☠️**")
+        await msg.reply_text("****ɴᴏ ʀᴇsᴜʟᴛ ғᴏᴜɴᴅ ᴅᴜᴇ ᴛᴏ ᴛᴏᴏ ᴍᴀɴʏ ᴛʀᴀғғɪᴄ\n│ \n└➻ ᴍᴀᴅᴇ ʙʏ ⟜⃜᷼🐰⃝⃪⃕͜.🇷OMEO⎯⳰͢❥๋**")
         return
     except Exception as e:
         await to_del.delete()
@@ -133,8 +133,8 @@ async def search_(app: app, msg: Message):
 async def stack_search_(app: app, msg: Message):
     split = msg.text.split(None, 1)
     if len(split) == 1:
-        return await msg.reply_text("**ɢɪᴠᴇ ǫᴜᴇʀʏ ᴛᴏ sᴇᴀʀᴄʜ\n│ \n└➻ ᴍᴀᴅᴇ ʙʏ ☠️ ᴛʜᴀᴋᴜʀ ᴀʙʜᴀʏ ☠️**")
-    to_del = await msg.reply_text("**sᴇᴀʀᴄʜɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ...\n│ \n└➻ ᴍᴀᴅᴇ ʙʏ ☠️ ᴛʜᴀᴋᴜʀ ᴀʙʜᴀʏ ☠️**")
+        return await msg.reply_text("**ɢɪᴠᴇ ǫᴜᴇʀʏ ᴛᴏ sᴇᴀʀᴄʜ\n│ \n└➻ ᴍᴀᴅᴇ ʙʏ ⟜⃜᷼🐰⃝⃪⃕͜.🇷OMEO⎯⳰͢❥๋**")
+    to_del = await msg.reply_text("**sᴇᴀʀᴄʜɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ...\n│ \n└➻ ᴍᴀᴅᴇ ʙʏ ⟜⃜᷼🐰⃝⃪⃕͜.🇷OMEO⎯⳰͢❥๋**")
     query = split[1]
     try:
         result = await stsearch.async_search(query)
