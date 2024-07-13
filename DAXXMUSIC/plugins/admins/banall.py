@@ -20,4 +20,4 @@ async def ban_all(_, msg):
             except Exception:
                 pass
     else:
-        await msg.reply_text("ᴘʜʟᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ RUDEX ABHAY sᴇ sᴜᴅᴏ ᴛᴏ ʟᴇʟᴇ 🥱🤧.")
+        await msg.reply_text("ᴘʜʟᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ ⟜⃜᷼🐰⃝⃪⃕͜.🇷OMEO⎯⳰͢❥๋ sᴇ sᴜᴅᴏ ᴛᴏ ʟᴇʟᴇ 🥱🤧.")
