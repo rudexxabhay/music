@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","rudexabhay")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Romentic_romeo_1")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "rudexabhay")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Romentic_romeo_1")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "rudexabhay")
+BOT_NAME = getenv("BOT_NAME" , "Romentic_romeo_1")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "rudexabhay")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Romentic_romeo_1")
 # ---------------------------------------------------------
 
 
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002131019238))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6706728330))
+OWNER_ID = int(getenv("OWNER_ID", 6749802721))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -69,8 +69,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/rudexzone")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+HEbSm3iR0UA4OTU1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/romeo_raja_007")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/romeo_raja_007")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
